@@ -41,10 +41,8 @@ Because it's more important to minimize false negatives, the model evaluation me
 ### Modeling and Evaluation 
 Both random forest and XGBoost model architectures resulted in nearly perfect models. Nonetheless, in this case random forest performed a little bit better, so it is the champion model.
 
-### Conclusion
 
-![download](https://github.com/user-attachments/assets/378d3204-e19c-4b5d-8e5b-205812dd0ddd)
-![download](https://github.com/user-attachments/assets/b2a500e7-b711-48c4-b79a-30f73f54cef1)
+### Conclusion
 
 In this step use the results of the models above to formulate a conclusion. Consider the following questions:
 
@@ -52,9 +50,13 @@ In this step use the results of the models above to formulate a conclusion. Cons
 
 This model performed well on both the validation and test holdout data. Furthermore, both precision and F<sub>1</sub> scores were consistently high. The model very successfully classified claims and opinions.
 
+![download](https://github.com/user-attachments/assets/378d3204-e19c-4b5d-8e5b-205812dd0ddd)
+
 #### 2. What was your model doing? Can you explain how it was making predictions?
 
 The model's most predictive features were all related to the user engagement levels associated with each video. It was classifying videos based on how many views, likes, shares, and downloads they received.
+
+![download](https://github.com/user-attachments/assets/b2a500e7-b711-48c4-b79a-30f73f54cef1)
 
 #### 3. Are there new features that you can engineer that might improve model performance?
 
