@@ -43,6 +43,9 @@ Both random forest and XGBoost model architectures resulted in nearly perfect mo
 
 ### Conclusion
 
+![download](https://github.com/user-attachments/assets/378d3204-e19c-4b5d-8e5b-205812dd0ddd)
+![download](https://github.com/user-attachments/assets/b2a500e7-b711-48c4-b79a-30f73f54cef1)
+
 In this step use the results of the models above to formulate a conclusion. Consider the following questions:
 
 #### 1. Would you recommend using this model? Why or why not?
